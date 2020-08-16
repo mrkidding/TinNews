@@ -13,12 +13,10 @@ The users can:
 The application is built on Java. 
 
 Home page:
-![image](https://github.com/mrkidding/TinNews/blob/master/IMG/home.jpg)
+<div align=center><img width="150" height="150" src="https://github.com/mrkidding/TinNews/blob/master/IMG/home.jpg"/></div>
 
 Search page:
-
-![image](https://github.com/mrkidding/TinNews/blob/master/IMG/search.jpg)
+<div align=center><img width="150" height="150" src="https://github.com/mrkidding/TinNews/blob/master/IMG/search.jpg"/></div>
 
 Save page:
-
-![image](https://github.com/mrkidding/TinNews/blob/master/IMG/saving.jpg)
+<div align=center><img width="150" height="150" src="https://github.com/mrkidding/TinNews/blob/master/IMG/saving.jpg"/></div>
