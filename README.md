@@ -14,16 +14,20 @@ The application is built on Java.
 
 Home page:
 <div align=center><img width="300" src="https://github.com/mrkidding/TinNews/blob/master/IMG/home.jpg"/></div>
-
+<br/>
+<br/>
 
 
 
 Search page:
 <div align=center><img width="300" src="https://github.com/mrkidding/TinNews/blob/master/IMG/search.jpg"/></div>
-
+<br/>
+<br/>
 
 
 
 
 Save page:
 <div align=center><img width="300" src="https://github.com/mrkidding/TinNews/blob/master/IMG/saving.jpg"/></div>
+<br/>
+<br/>
